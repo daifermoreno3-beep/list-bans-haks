@@ -9,16 +9,5 @@
         "ip": "198.123.23.2",
         "serial": "ASRE23OIB123.KLJI234234VAASD",
         "accion": "Ban"
-    },
-    {
-        "id": 1774821380653,
-        "fecha": "3/29/2026, 5:56:20 PM",
-        "nombre": "1",
-        "usuario": "1",
-        "userid": "1",
-        "charid": "1",
-        "ip": "1",
-        "serial": "1",
-        "accion": "Login"
     }
 ]
